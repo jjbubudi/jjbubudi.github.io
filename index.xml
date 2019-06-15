@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yet Another Developer</title>
+    <link>https://jimmyau.com/</link>
+    <description>Recent content on Yet Another Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jimmyau.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Ever Blog Post</title>
+      <link>https://jimmyau.com/post/first-blog-post/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimmyau.com/post/first-blog-post/</guid>
+      <description>&lt;p&gt;Been reading other people&amp;rsquo;s blog posts for quite a long time, but haven&amp;rsquo;t actually written any. It&amp;rsquo;s a good time to start.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://jimmyau.com/about/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimmyau.com/about/</guid>
+      <description>Jimmy Au, Software Engineer from Hong Kong. I write code and build things because I love to, not just because it&amp;rsquo;s my job. Super obsessed with open source technologies.
+Fork me on GitHub: https://github.com/jjbubudi</description>
+    </item>
+    
+  </channel>
+</rss>
